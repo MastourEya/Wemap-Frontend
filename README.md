@@ -21,4 +21,3 @@ Utilisation:
 - La liste de contenu sera affichée avec 10 éléments par page et vous pourrez naviguer dans les pages à l'aide des boutons de pagination.
 - Cliquez sur le bouton "Voir sur la carte" pour visualiser la localisation sur la carte Wemap.
 
-"# Wemap-Frontend" 
